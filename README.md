@@ -1,8 +1,28 @@
 # Passionate Technologist in AI & Signal Processing
 
+# OLA DARWICH
+
 ## Summary
 
 A passionate technologist with a deep expertise in AI, signal processing, and software development. With a strong foundation in both teaching and research, I am committed to advancing technology and driving innovation in artificial intelligence. My work spans developing cutting-edge AI solutions, improving signal processing techniques, and contributing to the software development lifecycle.
+
+## Projects
+
+### Loan Status Predictor
+- **Description**: Developed a machine learning model to predict loan approval outcomes based on applicant data. Utilized feature engineering and model selection techniques to improve prediction accuracy.
+- **Technologies Used**: Python, Pandas, Scikit-Learn, Jupyter Notebook
+- **[View Project](URL_to_project)**
+
+### Real-Time Object Detection System
+- **Description**: Designed and implemented a real-time object detection system using convolutional neural networks (CNNs). This project involved processing live video feeds to identify and classify objects in real-time.
+- **Technologies Used**: Python, TensorFlow, OpenCV
+- **[View Project](URL_to_project)**
+
+### Signal Processing for Health Monitoring Devices
+- **Description**: Created algorithms for processing and analyzing signals from wearable health monitoring devices. The project aimed at identifying patterns indicative of specific health conditions.
+- **Technologies Used**: MATLAB, Python
+- **[View Project](URL_to_project)**
+
 
 ## Education
 
@@ -18,6 +38,11 @@ A passionate technologist with a deep expertise in AI, signal processing, and so
   Faculty of Sciences, Lebanon  
   September 2011 - August 2013
 
+
+## Certifications
+
+- **Machine Learning Specialization** - ZAKA (2023)
+  
 ## Professional Experience
 
 ### Project Association for Culture and Development (PAFCAD), Tripoli, Lebanon
@@ -54,11 +79,18 @@ February 2015 - August 2015
 - **Interests**: Passionate about horse riding and hiking, finding balance and inspiration in nature.
 
 ---
+## Contact Me
 
-For more information about my projects and professional background, feel free to contact me.
+I'm always open to discussing new projects, opportunities, or collaborations. Feel free to reach out!
 
 - **Email**: o.darwich27@gmai.com
 - **LinkedIn**: www.linkedin.com/in/oladarwich
+
+## My Resume
+
+For more details about my professional background and projects, check out my resume.
+
+- [View My Resume](URL_to_your_resume)
 
 
 
